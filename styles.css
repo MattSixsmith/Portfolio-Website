@@ -1,0 +1,14 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 25px;
+    text-align: right;
+}
