@@ -1,0 +1,47 @@
+body {
+    background-color: darkgray;
+    margin: 0;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 49vw;
+    padding-left: 1vw;
+}
+
+
+.padding {
+    padding: 3vw;
+}
+
+
+.copyright {
+    position: fixed;
+    bottom: 0px;
+    right: 0vw;
+    padding-right: 1vw;
+}
+
+.date {
+    position: fixed;
+    bottom: 0px;
+    padding-left: 1vw;
+}
+
+
+.hero {
+    width: 100vw;
+}
+
+.container {
+    display: flex;
+}
+
+.container > div {
+    width: 50vw;
+}
